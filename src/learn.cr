@@ -1,5 +1,7 @@
 require "./learn/*"
 
 module Learn
-  # TODO Put your code here
+  class NeuralNetwork
+    
+  end
 end
